@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Sarala:wght@400;700&display=swap');
 
 /* Set custom variables here */
-
-
+:root {
+  
+}
 
 
 
@@ -50,4 +51,12 @@ section:not(#hero):not(#cta){
   section:not(#hero):not(#cta){
     padding: 100px 0;
   }
+}
+
+.logo {
+   display: inline-block;
+    margin-right: 30px;
+    max-width: 20px;
+    height: auto;
+    
 }
